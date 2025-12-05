@@ -4,7 +4,7 @@ Note: Only use **NEW:** for entirely new prompt files, NOT for new additions/sec
 
 ### Claude Code System Prompts Changelog
 
-# [2.0.56](https://github.com/Piebald-AI/claude-code-system-prompts/commit/20a222010a3c96dc37d9ae323cd40fae75251f9a)
+# [2.0.56](https://github.com/Piebald-AI/claude-code-system-prompts/commit/47571b6ad6110bebc89553bba49ebcf94f4605fc)
 
 - Reinforced note about using the current year in the WebSearch tool description
 - Added a note to the main system prompt instructing Claude to never include time estimates when presenting options or plans.
